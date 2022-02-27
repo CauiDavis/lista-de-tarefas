@@ -1,7 +1,7 @@
 .quadro{
     border: solid;
     margin-top:100;
-    width: 500px;
+    width: 400px;
     background-color: coral;
     box-sizing: border-box;
     flex-wrap: wrap;
