@@ -3,6 +3,8 @@
     margin-top:100;
     width: 500px;
     background-color: coral;
+    box-sizing: border-box;
+    flex-wrap: wrap;
 }
 .tarefa{
     width: 300px;
