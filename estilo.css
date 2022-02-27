@@ -8,10 +8,8 @@
 }
 .tarefa{
     width: 300px;
+    background-color: antiquewhite;
     
-}
-.rolagem{
-    overflow: auto;
 }
 .tarefa1{
     width: 300px;
