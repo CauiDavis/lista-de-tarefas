@@ -1,15 +1,15 @@
 .quadro{
-    border: solid;
+    border: solid 1px;
     margin-top:100;
     width: 400px;
-    background-color: coral;
+    background-color: rgb(168, 118, 99);
     box-sizing: border-box;
     flex-wrap: wrap;
 }
 .tarefa{
     width: 300px;
     background-color: antiquewhite;
-    
+    border-radius: 5%;
 }
 .tarefa1{
     width: 300px;
@@ -31,4 +31,12 @@ ul{
 }
 body{
     background-color: aqua;
+}
+h2{
+    text-shadow: black 1px 1px 1px, -1px -1px 1px,1px -1px 1px,-1px 1px 1px;
+    color: blue;
+}
+h3{
+    text-shadow: black 1px 1px 1px, -1px -1px 1px,1px -1px 1px,-1px 1px 1px;
+    color: blue;
 }
