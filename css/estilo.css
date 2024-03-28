@@ -39,7 +39,7 @@ button {
   width: 5rem;
   padding: 0.5rem;
   background-color: var(--maroonDark);
-  color: white;
+  color: var(--white);
   border: none;
   border-radius: 0.5rem;
   transition: color 0.4s;
