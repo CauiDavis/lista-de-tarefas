@@ -1,7 +1,7 @@
-# lista-de-tarefas
+# Lista de tarefas
 
 <div align="center">
-<img src="https://github.com/CauiDavis/lista-de-tarefas/raw/main/images/tasks.png" width="250" />
+<img src="https://github.com/CauiDavis/lista-de-tarefas/raw/main/images/Tasks.png" width="250" />
 
 <div data-badges>
   <img src="https://img.shields.io/github/stars/CauiDavis/lista-de-tarefas?style=for-the-badge" alt="GitHub stars" />
