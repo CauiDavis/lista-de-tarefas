@@ -40,5 +40,5 @@ Lista de tarafas é uma aplicação web que lista as tarefas que você anota.
 - crição das funções no backend
 - otimização de código
 <div align="center">
-  <img src="https://github.com/CauiDavis/conversor/raw/main/images/lista-de-tarefas.png" width="1000"/>
+  <img src="https://github.com/CauiDavis/lista-de-tarefas/raw/main/images/lista-de-tarefas.png" width="1000"/>
 <div/>
